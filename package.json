@@ -1,13 +1,13 @@
 {
-  "name": "iprox",
+  "name": "iproximate",
   "version": "1.0.0",
   "description": "KD Tree backed IP Proximity Search",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "snow",
+  "license": "MIT",
   "dependencies": {
     "lodash": "^4.11.2"
   }
